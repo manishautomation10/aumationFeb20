@@ -1,11 +1,10 @@
 package aumationFeb20;
 
-public class testRepo {
+public class RepoTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello");
-		System.out.println("Balaji Sir..");
+		System.out.println("Welcome balaji sir");
 	}
 
 }
